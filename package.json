@@ -1,0 +1,25 @@
+{
+  "name": "project-review",
+  "version": "1.0.0",
+  "description": "This is an excercise for the microverse technical curriculum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leboroz/Project-review.git"
+  },
+  "keywords": [
+    "Project",
+    "microverse",
+    "code",
+    "review"
+  ],
+  "author": "Leonardo Albornoz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Leboroz/Project-review/issues"
+  },
+  "homepage": "https://github.com/Leboroz/Project-review#readme"
+}
