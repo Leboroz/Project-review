@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Leboroz/Project-review/issues"
   },
-  "homepage": "https://github.com/Leboroz/Project-review#readme"
+  "homepage": "https://github.com/Leboroz/Project-review#readme",
+  "devDependencies": {
+    "hint": "^6.1.9"
+  }
 }
